@@ -9,18 +9,20 @@ After Contest the Questions was available at here -
 
 ---
 
-# Selection Letter - 
+# About Tournament - 
 
 <p align="center">
-  <a href="https://github.com/naman-dixit00/MIT-USA-Informatics-Winter-Tournament-2025-/blob/main/Selection%20Email.jpeg">
+  <a href="https://github.com/naman-dixit00/MIT-USA-Informatics-Winter-Tournament-2025-/blob/main/Banner.jpg">
     <img 
-      src="https://github.com/naman-dixit00/MIT-USA-Informatics-Winter-Tournament-2025-/blob/main/Selection%20Email.jpeg" 
+      src="https://github.com/naman-dixit00/MIT-USA-Informatics-Winter-Tournament-2025-/blob/main/Banner.jpg" 
       style="width:80%; height:1000px; object-fit:cover; border-radius:10px;"
     >
   </a> 
 </p>
 
 ---
+# Selection Letter - 
+
 <p align="center">
   <a href="https://github.com/naman-dixit00/MIT-USA-Informatics-Winter-Tournament-2025-/blob/main/Selection%20Email.jpeg">
     <img 
